@@ -34,15 +34,14 @@ I2C_Protocol/
 │
 ├── i2c_master.sv
 ├── i2c_slave.sv
-├── i2c_top_system.sv
+├── i2c_rtl_top.sv
 ├── i2c_tb.sv
 │
 ├── images/
-│   ├── i2c_architecture.png
-│   ├── master_fsm.png
-│   ├── slave_fsm.png
-│   ├── rtl_block_diagram.png
-│   └── waveform.png
+│   ├── i2c_master_fsm.png
+│   ├── i2c_slave_fsm.png
+│   ├── i2c_rtl_schematic_diagram.png
+│   └── i2c_wave.png
 │
 └── README.md
 ```
